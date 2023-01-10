@@ -18,7 +18,6 @@
             box-sizing: border-box;
             overflow-y: auto;
             overflow-x: hidden;
-            font-family: Tahoma;
         }
 
         .cloud-image {
